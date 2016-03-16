@@ -28,7 +28,7 @@
 #import "GRMustacheTag.h"
 #import "GRMustacheContext.h"
 
-@implementation NSFormatter (GRMustache)
+@implementation NSFormatter (GRMustacheFormatter)
 
 #pragma mark - <GRMustacheFilter>
 

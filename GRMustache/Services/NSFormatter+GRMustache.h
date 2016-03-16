@@ -66,5 +66,5 @@
  *
  * @since v6.4
  */
-@interface NSFormatter (GRMustache)<GRMustacheFilter, GRMustacheRendering, GRMustacheTagDelegate>
+@interface NSFormatter (GRMustacheFormatter)<GRMustacheFilter, GRMustacheRendering, GRMustacheTagDelegate>
 @end
