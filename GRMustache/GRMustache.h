@@ -102,5 +102,3 @@ FOUNDATION_EXPORT const unsigned char GRMustacheVersionString[];
 #import "GRMustacheConfiguration.h"
 #import "GRMustacheLocalizer.h"
 #import "GRMustacheKeyValueCoding.h"
-#import "NSValueTransformer+GRMustache.h"
-#import "NSFormatter+GRMustache.h"
